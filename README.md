@@ -1,4 +1,4 @@
-# Interpretaçao Automática de Artigos Científicos
+# Interpretação Automática de Artigos Científicos
 
 Este repositório apresenta duas soluçoes para analisar dados em artigos científicos:
 
